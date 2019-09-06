@@ -1,5 +1,8 @@
 _repo: Intiaanipoika-Pohjois-Amerikan-aarniometsissa_60190
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Eastman, Charles A.
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4116
     wikipedia: http://fi.wikipedia.org/wiki/Teuvo_Pakkala
 description: 'Translated excerpts of Indian Boyhood, #337.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60190#Intiaanipoika-Pohjois-Amerikan-aarniometsissa
 gutenberg_issued: '2019-08-27'
 gutenberg_type: Text
 identifiers:
