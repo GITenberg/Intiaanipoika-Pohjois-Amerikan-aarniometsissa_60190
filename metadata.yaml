@@ -1,0 +1,41 @@
+_repo: Intiaanipoika-Pohjois-Amerikan-aarniometsissa_60190
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eastman, Charles A.
+    aliases:
+    - Ohiyesa
+    - Okhidzheza
+    - Eastman, Charles Alexander
+    birthdate: 1858
+    deathdate: 1939
+    gutenberg_agent_id: '187'
+    url: http://www.gutenberg.org/2009/agents/187
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Eastman
+  editor:
+    agent_name: Pakkala, Teuvo
+    alias: Frosterus, Teodor Oskar
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '4116'
+    url: http://www.gutenberg.org/2009/agents/4116
+    wikipedia: http://fi.wikipedia.org/wiki/Teuvo_Pakkala
+description: 'Translated excerpts of Indian Boyhood, #337.'
+gutenberg_issued: '2019-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60190'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Eastman, Charles Alexander, 1858-1939 -- Childhood and youth'
+- !lcsh 'Indian children -- North America'
+- !lcsh 'Santee Indians -- Biography'
+- !lcsh 'Indians of North America -- Biography'
+- !lcsh 'Santee Indians -- Social life and customs'
+- GITenberg
+title: Intiaanipoika Pohjois-Amerikan aarniometsissä
+url: http://www.gutenberg.org/ebooks/60190
